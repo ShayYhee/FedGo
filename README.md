@@ -9,3 +9,5 @@ _Database_:PostgreSQL <br>
 *Models*
 _Crime type_: LSTM
 _Crime hotspot_: XGBClassifier
+
+<img src="C:\Users\Osebi\OneDrive - Южный Федеральный Университет\Четвертый Курс (Последний)\Проэкт\Diagrams\Fed.png" alt="FedGo logo"/>
