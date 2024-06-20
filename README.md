@@ -1,13 +1,15 @@
-***FedGo*** <br>
-Crime Prediction and Analysis Application
+<h1>FedGo</h1>
+<img src="fed-go/src/components/media/Fed.png"/>
+<h2>Crime Prediction and Analysis Application</h2>
 
 *Components* <br>
-_Front-end_: ReactJS (HTML, CSS, JavaScript) <br>
-_Back-end_: NodeJS, Flask <br>
-_Database_:PostgreSQL <br>
-
+<ul>
+  <li><b>Front-end</b>: ReactJS (HTML, CSS, JavaScript)</li>
+  <li><b>Back-end</b>: NodeJS, Flask</li>
+  <li><b>Database</b>:PostgreSQL</li>
+</ul>
+ 
 *Models*
-_Crime type_: LSTM
-_Crime hotspot_: XGBClassifier
+<li><i>Crime type</i>: LSTM</li>
+<li><i>Crime hotspot</i>: XGBClassifier</li>
 
-<img src="C:\Users\Osebi\OneDrive - Южный Федеральный Университет\Четвертый Курс (Последний)\Проэкт\Diagrams\Fed.png" alt="FedGo logo"/>
