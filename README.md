@@ -1,6 +1,7 @@
 <h1>FedGo</h1>
 <img src="fed-go/src/components/media/Fed.png"/>
 <h2>Crime Prediction and Analysis Application</h2>
+<h3>For Law Enforcement Agencies Use</h3>
 
 *Components* <br>
 <ul>
