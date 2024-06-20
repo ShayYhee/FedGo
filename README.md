@@ -13,3 +13,15 @@
 <li><i>Crime type</i>: LSTM</li>
 <li><i>Crime hotspot</i>: XGBClassifier</li>
 
+*Application Screenshots*
+<ul>
+  <li><b>Login:</b> <img src="Screenshot 2024-06-11 160547.png"/></li>
+  <li><b>Area Selection:</b> <img src="Screenshot 2024-06-20 105841.png"/></li>
+  <li><b>Prediction Menu:</b> <img src="Screenshot 2024-06-20 105938.png"/></li>
+  <li><img src=""/></li>
+  <li><img src=""/></li>
+  <li><img src=""/></li>
+  <li><img src=""/></li>
+  <li><img src=""/></li>
+  <li><img src=""/></li>
+</ul>
