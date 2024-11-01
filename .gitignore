@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Node environment files (if not needed)
+server/node-auth-postgre/
