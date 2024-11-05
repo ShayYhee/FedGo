@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2f1544b.css",
+    "main.js": "/static/js/main.91de2bf7.js",
+    "static/js/845.a170a6ca.chunk.js": "/static/js/845.a170a6ca.chunk.js",
+    "static/media/dark-green-marble-wave-background.jpg": "/static/media/dark-green-marble-wave-background.4ef31d1bfb972c9fcfe6.jpg",
+    "static/media/Fed.png": "/static/media/Fed.a59d994f69bf61c8a3be.png",
+    "index.html": "/index.html",
+    "main.a2f1544b.css.map": "/static/css/main.a2f1544b.css.map",
+    "main.91de2bf7.js.map": "/static/js/main.91de2bf7.js.map",
+    "845.a170a6ca.chunk.js.map": "/static/js/845.a170a6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f1544b.css",
+    "static/js/main.91de2bf7.js"
+  ]
+}
