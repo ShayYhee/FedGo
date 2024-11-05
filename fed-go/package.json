@@ -1,7 +1,7 @@
 {
   "name": "fed-go",
   "version": "0.1.0",
-  "homepage": "https://fedgo.onrender.com",
+  "homepage": "https://fedgo.onrender.com/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.24.5",
